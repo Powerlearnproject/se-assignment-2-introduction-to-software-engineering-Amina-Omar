@@ -3,10 +3,11 @@
 Assignment: Introduction to Software EngineerinG
 
 Questions:
-Define Software Engineering:
+# Define Software Engineering:
+
 Software engineering is the systematic application of engineering principles, methods, and tools to the development and maintenance of high-quality software systems. It involves the design, development, testing, deployment, and maintenance of software products.
 
-What is software engineering, and how does it differ from traditional programming?
+# What is software engineering, and how does it differ from traditional programming?
 
 Software engineering is a systematic, disciplined, and quantifiable approach to the development, operation, and maintenance of software
 
@@ -14,7 +15,7 @@ Software Engineering Emphasizes on a holistic approach to the entire software de
 Traditional Programming focuses on writing code to solve specific problems without necessarily considering the broader context of software development and maintenance.
 Pressman, R. S., & Maxim, B. R. (2020). Software Engineering: A Practitioner's Approach (9th ed.). McGraw-Hill Education.
 
-Software Development Life Cycle (SDLC):
+# Software Development Life Cycle (SDLC):
 Explain the various phases of the Software Development Life Cycle. Provide a brief description of each phase.
 The Software Development Life Cycle (SDLC) consists of several phases, including:
 Requirements: Gathering and documenting user needs and system requirements.
@@ -24,7 +25,7 @@ Testing: Conducting various tests to ensure the software meets quality standards
 Deployment: Releasing the software to users or customers.
 Maintenance: Providing ongoing support, updates, and enhancements to the software after deployment.
 
-Agile vs. Waterfall Models:
+# Agile vs. Waterfall Models:
 
  Waterfall: Sequential approach with distinct phases (e.g., requirements, design, implementation) flowing downwards like a waterfall.
 Agile: Iterative and incremental approach focused on flexibility, collaboration, and responding to change.
@@ -64,12 +65,12 @@ Agile is preferred for projects where requirements are expected to change freque
 Waterfall is preferred for projects with well-defined, stable requirements and where thorough documentation and a structured approach are necessary. It is suitable for projects where changes are minimal and predictable, and regulatory compliance or extensive documentation is required.
 
 
-Requirements Engineering:
+# Requirements Engineering:
 
 What is requirements engineering? Describe the process and its importance in the software development lifecycle.
 Requirements engineering (RE) is the process of defining, documenting, and maintaining the requirements in the engineering design process. It involves a systematic approach to identifying what the users need and ensuring that the system developed meets those needs. Requirements engineering is a critical phase in the software development lifecycle (SDLC) because it sets the foundation for all subsequent development activities.
 
-Software Design Principles:
+# Software Design Principles:
 
 Explain the concept of modularity in software design. How does it improve maintainability and scalability of software systems?
 Testing in Software Engineering:
@@ -95,7 +96,7 @@ User Satisfaction:
 
 Delivers reliable and functional software, enhancing user trust and satisfaction.
 
-Version Control Systems:
+# Version Control Systems:
 
 What are version control systems, and why are they important in software development? Give examples of popular version control systems and their features.
 
@@ -103,7 +104,7 @@ Version control systems (VCS) are tools that help manage changes to source code 
 examples GIT,Subversion (SVN),MercuriaL
 Software Project Management:
 
-Discuss the role of a software project manager. What are some key responsibilities and challenges faced in managing software projects?
+# Discuss the role of a software project manager. What are some key responsibilities and challenges faced in managing software projects?
 Key Responsibilities of a Software Project Manager:
 Project Planning:
 
@@ -191,7 +192,7 @@ Mitigation: Strong leadership, conflict resolution skills, and fostering a posit
 Conclusion:
 Software Maintenance:
 
-Define software maintenance and explain the different types of maintenance activities. Why is maintenance an essential part of the software lifecycle?
+# Define software maintenance and explain the different types of maintenance activities. Why is maintenance an essential part of the software lifecycle?
 
 Software maintenance is the process of modifying a software system after it has been delivered to correct faults, improve performance or other attributes, or adapt the product to a changed environment. It is a critical phase in the software lifecycle that ensures the software continues to function correctly and efficiently over time.
 
